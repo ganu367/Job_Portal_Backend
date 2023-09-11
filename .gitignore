@@ -1,0 +1,7 @@
+/job-portal-env
+/admin
+/employer
+/candidate
+/chat
+/__pycache__
+/job_portal.db
