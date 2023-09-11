@@ -5,4 +5,4 @@
 /chat
 /__pycache__
 /job_portal.db
-/.env
+.env
